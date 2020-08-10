@@ -1,0 +1,12 @@
+Hello this is a sample file
+It contains sample text
+Dummy Line A
+Dummy Line B
+Dummy Line C
+Error
+false_negative_alignment_hits: <0.0010
+false_discovery: <0.0 
+algorithmic_error:
+false_positive_mutation_calls: <0.00005 
+false_discovery: 0.005
+Hey! 
